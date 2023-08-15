@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hola 👋, soy Oscar José Ricaurte Villareal</h1>
+<h3 align="center">Un apasionado desarrollador frontend de la India</h3>
 
-<!--
-**oscarjrv/oscarjrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Actualmente estoy trabajando en ** Project Manager**
 
-Here are some ideas to get you started:
+- 🌱 Actualmente estoy aprendiendo **HTML - CSS - JS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Busco colaborar en **Proyectos de Desarrollo**
+
+- 🤝 Busco ayuda con **Desarrollo**
+
+- 📫 Cómo contactarme **oscar.ricaurte@hotmail.com**
+
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+</p>
